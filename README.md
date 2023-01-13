@@ -1,5 +1,3 @@
-[![Header](https://github.com/D-Pavlenko/D-Pavlenko/blob/main/assets/header.png)](https://d-pavlenko.github.io/Denis_Pavlenko)
-
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-343434?style=for-the-badge&logo=Html&logoColor=ea6e2e)
 ![CSS](https://img.shields.io/badge/-CSS-343434?style=for-the-badge&logo=CSS&logoColor=28aae1)
